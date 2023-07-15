@@ -13,7 +13,7 @@
 <tr>
   <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/neural_networks">Прогнозирование температуры звезд</a> (Задача регрессии)</td>
   <td> Задача от обсерватории «Небо на ладони»: придумать, как с помощью нейросети определять температуру на поверхности обнаруженных звёзд по известным признакам.</td>
-  <td>Jupyter Notebook, Python, os, pandas, numpy, seaborn, sklearn, Pytorch, Skorch, PCA</td>
+  <td>Jupyter Notebook, Python, os, pandas, numpy, seaborn, sklearn, **Pytorch, Skorch, PCA**</td>
 </tr>
 
 </table>
