@@ -53,6 +53,21 @@
   <td> Заказчик исследования — сеть отелей «Как в гостях». Чтобы привлечь клиентов, сеть отелей добавила на свой сайт возможность забронировать номер без предоплаты. Однако если клиент отменяет бронирование, то компания терпит убытки. Чтобы решить эту проблему, нам нужно разработать систему, которая предсказывает отказ от брони. Если модель покажет, что бронь будет отменена, то клиенту предлагается внести депозит.</td>
   <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>plotly, eli5, Preprocessing, GridSearchCV, Pipeline, DecisionTreeClassifier RandomForestClassifier, LogisticRegression, XGBClassifier</strong></td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/oil_well_location">Выбор локации для скважины</a> (Задача регрессии)</td>
+  <td> Мы работаем в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину.</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>scipy, LinearRegression</strong></td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/bank_customer_churn">Отток клиентов</a> (Задача классификации)</td>
+  <td>Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>scipy, Preprocessing, SMOTE, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression</strong></td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/tariff_prediction">Рекомендация тарифов</a> (Задача регрессии)</td>
+  <td>Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, KNeighborsClassifier</strong></td>
+</tr>
 
 </table>
 </details>
