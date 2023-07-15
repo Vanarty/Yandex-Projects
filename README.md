@@ -3,8 +3,6 @@
 
 ## Нейронные сети
 
-<details open>
-  <summary>Список моих проектов</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -13,11 +11,28 @@
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/neural_networks">Прогнозирование температуры звезды</a></td>
-  <td> Задача от обсерватории «Небо на ладони»: придумать, как с помощью нейросети определять температуру на поверхности обнаруженных звёзд  по известным признакам.</td>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/neural_networks">Прогнозирование температуры звезд</a></td>
+  <td> Задача от обсерватории «Небо на ладони»: придумать, как с помощью нейросети определять температуру на поверхности обнаруженных звёзд по известным признакам.</td>
   <td>Jupyter Notebook, Python, os, pandas, numpy, seaborn, sklearn, Pytorch, Skorch, PCA</td>
 </tr>
 
 </table>
 </details>
 
+## Классическое машинное обучение
+
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Стек</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/car_accident_risk">Оценка риска ДТП</a> (Задача классификации)</td>
+  <td> Нужно создать систему для каршеринговой компании, которая могла бы оценить риск ДТП по совокупности факторов. Как только водитель забронировал автомобиль, сел за руль и выбрал маршрут, система должна оценить уровень риска. Если уровень риска высок, водитель увидит предупреждение и рекомендации по маршруту.</td>
+  <td>Jupyter Notebook, Python, andas, numpy, seaborn, sklearn, sqlalchemy, Shap, Pipeline, Preprocessing, LogisticRegression, RandomForestClassifier, XGBClassifier, CatBoostClassifier, LGBMClassifier</td>
+</tr>
+
+</table>
+</details>
