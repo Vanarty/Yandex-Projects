@@ -64,7 +64,7 @@
   <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>scipy, Preprocessing, SMOTE, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression</strong></td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/tariff_prediction">Рекомендация тарифов</a> (Задача регрессии)</td>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/tariff_prediction">Рекомендация тарифов</a> (Задача классификации)</td>
   <td>Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».</td>
   <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, KNeighborsClassifier</strong></td>
 </tr>
