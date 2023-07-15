@@ -38,6 +38,11 @@
   <td> Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. Необходимо построить модель для предсказания стоимости авто.</td>
   <td>Jupyter Notebook, Python, pandas, numpy, seaborn, sklearn, <strong>Pipeline, TransformerMixin, DecisionTreeRegressor, RandomForestRegressor, XGBRegressor, LGBMRegressor, CatBoostRegressor</strong></td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/personal_data_protection">Защита персональных данных клиентов</a> (Задача регрессии)</td>
+  <td> Необходимо защитить данные клиентов страховой компании «Хоть потоп». Разработаем такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуем корректность его работы.</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, seaborn, sklearn, <strong> Pipeline, Preprocessing, PolynomialFeatures, LinearRegression, Lightgbm</strong></td>
+</tr>
 
 </table>
 </details>
