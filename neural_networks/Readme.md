@@ -1,4 +1,4 @@
-# Прогнозирование температуры звезд.
+# Прогнозирование температуры звезд (<a href = "[https://github.com/Vanarty/Yandex-Projects](https://github.com/Vanarty/Yandex-Projects/blob/main/neural_networks/star_temperature_prediction.ipynb)">Прогнозирование температуры звезды</a>)
 
 * Автор проекта - *Иванов Артём Юрьевич*
 * vanarty@yandex.ru
