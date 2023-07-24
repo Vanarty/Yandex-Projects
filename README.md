@@ -1,6 +1,23 @@
 # Yandex-Projects
 Проекты, выполненные в рамках обучения по специальности Data Scientist Plus.
 
+## Временные ряды
+
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Стек</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/machine_learning/taxi_orders">Прогнозирование заказов такси</a> (Задача регрессии)</td>
+  <td> Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Необходимо построить модель для такого предсказания.</td>
+  <td>Jupyter Notebook, Python, os, pandas, numpy, sklearn, <strong>statsmodels, Prophet, TimeSeriesSplit, Pipeline, GridSearchCV, TransformerMixin, XGBRegressor, LGBMRegressor, CatBoostRegressor</strong></td>
+</tr>
+
+</table>
+
 ## Нейронные сети
 
 <table>
@@ -17,7 +34,6 @@
 </tr>
 
 </table>
-</details>
 
 ## Классическое машинное обучение
 
