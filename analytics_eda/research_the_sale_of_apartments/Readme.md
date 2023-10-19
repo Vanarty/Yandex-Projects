@@ -1,4 +1,4 @@
-# Прогнозирование заказов такси
+# Исследование объявлений о продаже квартир
 
 ([Тетрадка с проектом](https://github.com/Vanarty/Yandex-Projects/blob/main/analytics_eda/research_the_sale_of_apartments/research_the_sale_of_apartments.ipynb))
 
