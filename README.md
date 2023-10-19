@@ -18,6 +18,23 @@
 
 </table>
 
+## CV
+
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Стек</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/CV/cv_project_1">Определение возраста покупателей по фото</a> (Задача регрессии)</td>
+  <td> Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей.</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, seaborn, <strong>PIL, Tensorflow, ImageDataGenerator, ResNet50</strong></td>
+</tr>
+
+</table>
+
 ## NLP
 
 <table>
