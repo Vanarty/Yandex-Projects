@@ -115,4 +115,10 @@
   <td>Jupyter Notebook, Python, pandas, numpy, matplotlib, seaborn, scipy.stats, </td>
 </tr>
 
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/analytics_eda/kogort_analysis_sql">Когортный анализ посещаемости сайта stackoverflow</a></td>
+  <td> В этой части проекта нам нужно написать несколько SQL-запросов в Jupyter Notebook и провести исследования (включая когортный анализ) посещаемости сайта stackoverflow.</td>
+  <td>Jupyter Notebook, Python, pandas, matplotlib, seaborn, <strong> plotly, sqlalchemy </strong></td>
+</tr>
+
 </table>
