@@ -109,4 +109,10 @@
   <td>Jupyter Notebook, Python, pandas, numpy, matplotlib, seaborn</td>
 </tr>
 
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/analytics_eda/statistic_research_the_operators_tariff">Статистический анализ тарифов оператора сотовой сети</a></td>
+  <td> «Мегалайн» — федеральный оператор сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов.</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, matplotlib, seaborn, scipy.stats, </td>
+</tr>
+
 </table>
