@@ -18,6 +18,24 @@
 
 </table>
 
+## NLP
+
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Стек</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/nlp_project">Классификация комментариев интернет-магазина</a> (Задача классификации)</td>
+  <td> Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</td>
+  <td>Jupyter Notebook, Python, os, pandas, numpy, sklearn, re, tqdm, seaborn, <strong>wordcloud, nltk, LGBMClassifier, LogisticRegression, SGDClassifier, Pipeline, GridSearchCV, confusion_matrix, ConfusionMatrixDisplay, classification_report</strong></td>
+</tr>
+
+</table>
+
+
 ## Нейронные сети
 
 <table>
