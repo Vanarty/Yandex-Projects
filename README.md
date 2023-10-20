@@ -1,6 +1,24 @@
 # Yandex-Projects
 Проекты, выполненные в рамках обучения по специальности Data Scientist Plus.
 
+## Выпускной проект
+
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Стек</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects/tree/main/final_project">Прогнозирование электроэнергии при плавке стали</a> (Задача регрессии)</td>
+  <td> Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Необходимо построить модель, которая предскажет температуру стали.</td>
+  <td>Jupyter Notebook, Python, pandas, numpy, sklearn, math, random, matplotlib, seaborn <strong>sqlalchemy, GridSearchCV, RandomizedSearchCV, Pipeline, DummyRegressor, Lasso, Ridge, RandomForestRegressor, LGBMRegressor, Pytorch, skorch.NeuralNetRegressor</strong></td>
+</tr>
+
+</table>
+
+
 ## Временные ряды
 
 <table>
